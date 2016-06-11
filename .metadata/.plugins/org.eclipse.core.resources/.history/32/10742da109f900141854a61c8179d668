@@ -1,0 +1,15 @@
+<!-- LOGIN PAGE -->
+
+<html>
+<head>
+	<title>LOGIN</title>
+</head>
+<body>
+	<h1>LOGIN</h1>
+	<form name="login">
+		login:<input name="login" type="text"/>
+		password:<input name="passw" type="password"/>
+		
+	</form>
+</body>
+</html>

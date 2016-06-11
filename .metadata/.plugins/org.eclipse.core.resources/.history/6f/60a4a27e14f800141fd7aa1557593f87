@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Rectangle Mobile Template</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 
+        Rectangle Template 
+        http://www.templatemo.com/preview/templatemo_439_rectangle
+    	-->
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/font-awesome.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/templatemo-style.css">
+<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+<body data-ng-app="loginApp">
+	<div class="site-bg"></div>
+	<div class="site-bg-overlay"></div>
+
+	<!-- TOP HEADER -->
+	<div class="top-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-8">
+					<div class="col-md-1">
+						<a href="#/user-list">Home</a>
+					</div>
+					<div class="col-md-1">
+						<a href="#/user-creation">AboutUs</a>
+					</div>
+					<div class="col-md-1">
+						<a href="#">Gallery</a>
+					</div>
+					<div class="col-md-1">
+						<a href="#">Contact</a>
+					</div>
+				</div>
+
+				<div class="col-xs-6 col-md-4">
+					<div class="social-icons">
+						<ul>
+							<li><a href="#" class="fa fa-facebook"></a></li>
+							<li><a href="#" class="fa fa-twitter"></a></li>
+							<li><a href="#" class="fa fa-linkedin"></a></li>
+							<li><a href="#" class="fa fa-dribbble"></a></li>
+							<li><a href="#" class="fa fa-rss"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- .top-header -->
+
+
+	<div class="container" id="page-content">
+		<div class="row">
+			<div class="col-sm-3">
+				<div class="logo-holder">
+					<a href="#" class="site-brand"><img src="images/logo.png"
+						alt=""></a>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div data-ng-view="" class="center-block">
+					<!-- CONTENT -->
+				</div>
+			</div>
+			<div class="col-sm-3"></div>
+		</div>
+	</div>
+
+	<!-- SITE-FOOTER -->
+	<div class="site-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<p>Copyright &copy; 2015 ESPRIT</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- .site-footer -->
+
+	<script src="js/vendor/jquery-1.10.2.min.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+	<script
+		src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+	<script
+		src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-resource.js"></script>
+	<script
+		src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
+	<script src="scripts/app.js"></script>
+	<script src="scripts/services/services.js"></script>
+	<script src="scripts/controllers/controllers.js"></script>
+</body>
+</html>

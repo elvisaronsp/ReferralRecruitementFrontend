@@ -1,0 +1,5 @@
+<form name="login">
+		login:	 <input name="login" type="text"/>
+		password:<input name="passw" type="password"/>
+				 <button data-ng-click="checkCredentials()">sign in</button>
+</form>

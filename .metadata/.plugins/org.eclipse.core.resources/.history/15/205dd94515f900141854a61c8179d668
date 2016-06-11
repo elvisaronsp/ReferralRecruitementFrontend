@@ -1,0 +1,8 @@
+var var_login_ctrl = angular.module('LGApp.controllers', []);
+
+var_login_ctrl.controller('LoginCtrl', [ '$scope', '$location',
+		function($scope, $location) {
+			$scope.checkCredentials = function() {
+				$location.path('/app');
+			};
+		}]);

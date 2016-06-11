@@ -1,0 +1,27 @@
+<!-- LOGIN PAGE -->
+
+<html>
+<head>
+	<title>LOGIN</title>
+</head>
+<body data-ng-app="MainApp">
+	<h1>LOGIN</h1>
+	<div data-ng-view="">
+		<!-- CONTENT -->
+	</div>
+	<form name="login">
+		login:	 <input name="login" type="text"/>
+		password:<input name="passw" type="password"/>
+				 <button data-ng-click="checkCredentials()">sign in</button>
+				 <button data-ng-click="redirectError()">sign in</button>
+	</form>
+	
+	<!-- SCRIPTS -->
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-resource.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+	<script src="scripts/app.js"></script>
+	<script src="scripts/services/login/services.js"></script>
+	<script src="scripts/controllers/login/controllers.js"></script>
+</body>
+</html>

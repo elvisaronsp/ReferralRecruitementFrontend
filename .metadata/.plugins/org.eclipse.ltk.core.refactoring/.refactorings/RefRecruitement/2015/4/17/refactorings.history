@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;angularRESTsample/WebContent/views/create-offer.xhtml&apos; to &apos;create-application.xhtml&apos;" description="Rename resource &apos;create-offer.xhtml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/views/create-offer.xhtml" name="create-application.xhtml" stamp="1429699261655" updateReferences="true"/>
+</session>

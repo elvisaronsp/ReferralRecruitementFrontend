@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/PLAYER9/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.1.2.Final-wildfly-1/arquillian-container-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0-alpha-3/shrinkwrap-descriptors-spi-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.1.2.Final-wildfly-1/arquillian-protocol-servlet-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/core/arquillian-core-spi/1.1.2.Final-wildfly-1/arquillian-core-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.1.2.Final-wildfly-1/arquillian-container-test-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.1.2.Final-wildfly-1/arquillian-config-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/test/arquillian-test-spi/1.1.2.Final-wildfly-1/arquillian-test-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/config/arquillian-config-api/1.1.2.Final-wildfly-1/arquillian-config-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-api/1.1.2/shrinkwrap-api-1.1.2.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-core/1.1.2.Final-wildfly-1/arquillian-junit-core-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/container/arquillian-container-spi/1.1.2.Final-wildfly-1/arquillian-container-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.1.2/shrinkwrap-impl-base-1.1.2.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.1.2.Final-wildfly-1/arquillian-container-test-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hibernate/hibernate-validator-annotation-processor/5.1.3.Final/hibernate-validator-annotation-processor-5.1.3.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.1.2.Final-wildfly-1/arquillian-test-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/core/arquillian-core-api/1.1.2.Final-wildfly-1/arquillian-core-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-api/1.1.2.Final-wildfly-1/arquillian-container-test-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hibernate/hibernate-jpamodelgen/4.3.5.Final/hibernate-jpamodelgen-4.3.5.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-container/1.1.2.Final-wildfly-1/arquillian-junit-container-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.1.2/shrinkwrap-spi-1.1.2.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0-alpha-3/shrinkwrap-descriptors-api-base-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/test/arquillian-test-api/1.1.2.Final-wildfly-1/arquillian-test-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.1.2.Final-wildfly-1/arquillian-core-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="/Referral/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="Referral"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;%3;%4;%5;" path="%0"/>
+   <linked-resource declaration="true" name="%7;" path="%6"/>
+   <linked-resource name="%6;%4;" path="%2"/>
+   <linked-resource name="%1;%3;%4;" path="%5"/>
+   <linked-resource declaration="true" name="%8;%9;" path="%1"/>
+  </core>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="18" name="%6" offset="2823" path="%10"/>
+   <linked-el length="25" name="%6" offset="2952" path="%10"/>
+   <linked-el length="35" name="%6" offset="2986" path="%10"/>
+   <linked-el length="37" name="%11" offset="3927" path="%10"/>
+   <linked-el length="51" name="%11" offset="3717" path="%10"/>
+   <linked-el length="20" name="%12" offset="3690" path="%13"/>
+   <linked-el length="20" name="%12" offset="3992" path="%13"/>
+   <linked-el length="21" name="%14" offset="8473" path="%13"/>
+   <linked-el length="21" name="%15" offset="8473" path="%13"/>
+   <linked-el length="170" name="%16" offset="14189" path="%17"/>
+   <linked-el length="171" name="%16" offset="29420" path="%17"/>
+   <linked-el length="171" name="%16" offset="31338" path="%17"/>
+   <linked-el length="158" name="%16" offset="15975" path="%17"/>
+   <linked-el length="177" name="%16" offset="11638" path="%17"/>
+   <linked-el length="174" name="%16" offset="22132" path="%17"/>
+   <linked-el length="170" name="%16" offset="13683" path="%17"/>
+   <linked-el length="171" name="%16" offset="19441" path="%17"/>
+   <linked-el length="171" name="%16" offset="18672" path="%17"/>
+   <linked-el length="121" name="%16" offset="33261" path="%17"/>
+   <linked-el length="119" name="%16" offset="33773" path="%17"/>
+   <linked-el length="174" name="%16" offset="21359" path="%17"/>
+   <linked-el length="185" name="%16" offset="24794" path="%17"/>
+   <linked-el length="119" name="%16" offset="34136" path="%17"/>
+   <linked-el length="165" name="%16" offset="9444" path="%17"/>
+   <linked-el length="19" name="%16" offset="26979" path="%17"/>
+   <linked-el length="157" name="%16" offset="3426" path="%17"/>
+   <linked-el length="171" name="%16" offset="30946" path="%17"/>
+   <linked-el length="137" name="%16" offset="5134" path="%17"/>
+   <linked-el length="170" name="%16" offset="13324" path="%17"/>
+   <linked-el length="157" name="%16" offset="3850" path="%17"/>
+   <linked-el length="171" name="%16" offset="30599" path="%17"/>
+   <linked-el length="29" name="%16" offset="28950" path="%17"/>
+   <linked-el length="171" name="%16" offset="30230" path="%17"/>
+   <linked-el length="158" name="%16" offset="15123" path="%17"/>
+   <linked-el length="174" name="%16" offset="23312" path="%17"/>
+   <linked-el length="167" name="%16" offset="11260" path="%17"/>
+   <linked-el length="177" name="%16" offset="12028" path="%17"/>
+   <linked-el length="186" name="%16" offset="25340" path="%17"/>
+   <linked-el length="156" name="%16" offset="7675" path="%17"/>
+   <linked-el length="171" name="%16" offset="19066" path="%17"/>
+   <linked-el length="181" name="%16" offset="32132" path="%17"/>
+   <linked-el length="137" name="%16" offset="6264" path="%17"/>
+   <linked-el length="175" name="%16" offset="25731" path="%17"/>
+   <linked-el length="174" name="%16" offset="21762" path="%17"/>
+   <linked-el length="157" name="%16" offset="4533" path="%17"/>
+   <linked-el length="137" name="%16" offset="5685" path="%17"/>
+   <linked-el length="171" name="%16" offset="29877" path="%17"/>
+   <linked-el length="166" name="%16" offset="8498" path="%17"/>
+   <linked-el length="166" name="%16" offset="8858" path="%17"/>
+   <linked-el length="174" name="%16" offset="22937" path="%17"/>
+   <linked-el length="137" name="%16" offset="6680" path="%17"/>
+   <linked-el length="174" name="%16" offset="22564" path="%17"/>
+   <linked-el length="184" name="%16" offset="24356" path="%17"/>
+   <linked-el length="184" name="%16" offset="23841" path="%17"/>
+   <linked-el length="186" name="%16" offset="26145" path="%17"/>
+   <linked-el length="171" name="%16" offset="17742" path="%17"/>
+   <linked-el length="181" name="%16" offset="31694" path="%17"/>
+   <linked-el length="175" name="%16" offset="10187" path="%17"/>
+   <linked-el length="165" name="%16" offset="9800" path="%17"/>
+   <linked-el length="157" name="%16" offset="4167" path="%17"/>
+   <linked-el length="137" name="%16" offset="5971" path="%17"/>
+   <linked-el length="156" name="%16" offset="7248" path="%17"/>
+   <linked-el length="171" name="%16" offset="16976" path="%17"/>
+   <linked-el length="158" name="%16" offset="15550" path="%17"/>
+   <linked-el length="171" name="%16" offset="19901" path="%17"/>
+   <linked-el length="175" name="%16" offset="10552" path="%17"/>
+   <linked-el length="174" name="%16" offset="20664" path="%17"/>
+   <linked-el length="177" name="%16" offset="12599" path="%17"/>
+   <linked-el length="166" name="%16" offset="8132" path="%17"/>
+   <linked-el length="171" name="%16" offset="17347" path="%17"/>
+   <linked-el length="181" name="%16" offset="18239" path="%17"/>
+   <linked-el length="26" name="%18" offset="9967" path="%13"/>
+   <linked-el length="31" name="%18" offset="9216" path="%13"/>
+   <linked-el length="21" name="%18" offset="8629" path="%13"/>
+   <linked-el length="21" name="%18" offset="12153" path="%13"/>
+   <linked-el length="20" name="%18" offset="3690" path="%13"/>
+   <linked-el length="20" name="%18" offset="3992" path="%13"/>
+   <linked-el length="27" name="%1" offset="2155" path="%10"/>
+   <linked-el length="20" name="%1" offset="1733" path="%10"/>
+   <linked-el length="21" name="%1" offset="1926" path="%10"/>
+   <linked-el length="55" name="%1" offset="2422" path="%10"/>
+   <linked-el length="27" name="%8" offset="2155" path="%10"/>
+   <linked-el length="20" name="%8" offset="1733" path="%10"/>
+   <linked-el length="21" name="%8" offset="1926" path="%10"/>
+   <linked-el length="31" name="%19" offset="9216" path="%13"/>
+   <linked-el length="31" name="%20" offset="9216" path="%13"/>
+   <linked-el length="21" name="%21" offset="8629" path="%13"/>
+   <linked-el length="21" name="%21" offset="12153" path="%13"/>
+   <linked-el length="31" name="%22" offset="9216" path="%13"/>
+   <linked-el length="26" name="%23" offset="9967" path="%13"/>
+   <linked-el length="52" name="%24" offset="3528" path="%10"/>
+   <linked-el length="45" name="%24" offset="3257" path="%10"/>
+   <linked-el length="27" name="%24" offset="3769" path="%10"/>
+   <linked-el length="27" name="%24" offset="2155" path="%10"/>
+   <linked-el length="46" name="%24" offset="3391" path="%10"/>
+   <linked-el length="20" name="%24" offset="1733" path="%10"/>
+   <linked-el length="51" name="%24" offset="3717" path="%10"/>
+   <linked-el length="21" name="%24" offset="1926" path="%10"/>
+   <linked-el length="43" name="%24" offset="3126" path="%10"/>
+   <linked-el length="20" name="%25" offset="3690" path="%13"/>
+   <linked-el length="20" name="%25" offset="3992" path="%13"/>
+   <linked-el length="21" name="%26" offset="8629" path="%13"/>
+   <linked-el length="21" name="%26" offset="12153" path="%13"/>
+   <linked-el length="55" name="%9" offset="2422" path="%10"/>
+   <linked-el length="18" name="%7" offset="2823" path="%10"/>
+   <linked-el length="25" name="%7" offset="2952" path="%10"/>
+   <linked-el length="52" name="%7" offset="3528" path="%10"/>
+   <linked-el length="45" name="%7" offset="3257" path="%10"/>
+   <linked-el length="27" name="%7" offset="3769" path="%10"/>
+   <linked-el length="35" name="%7" offset="2986" path="%10"/>
+   <linked-el length="46" name="%7" offset="3391" path="%10"/>
+   <linked-el length="51" name="%7" offset="3717" path="%10"/>
+   <linked-el length="43" name="%7" offset="3126" path="%10"/>
+   <linked-el length="26" name="%27" offset="9967" path="%13"/>
+   <linked-el length="37" name="%28" offset="3927" path="%10"/>
+   <linked-el length="51" name="%28" offset="3717" path="%10"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/data/MemberListProducer.java" value="%6"/>
+  <alias path="request" value="%11"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/data/MemberRepository.java" value="%2"/>
+  <alias path="project" value="%15"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/controller/MemberController.java" value="%1"/>
+  <alias path="version.war" value="%21"/>
+  <alias path="version.surefire" value="%23"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/model/Member.java" value="%24"/>
+  <alias path="/Referral/pom.xml" value="%13"/>
+  <alias path="members" value="%7"/>
+  <alias path="memberController" value="%9"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/rest/MemberResourceRESTService.java" value="%4"/>
+  <alias path="/Referral/src/main/webapp/index.xhtml" value="%10"/>
+  <alias path="version.jboss.bom" value="%12"/>
+  <alias
+   path="/Referral/src/test/java/org/jboss/tools/examples/test/MemberRegistrationTest.java" value="%3"/>
+  <alias path="project.artifactId" value="%14"/>
+  <alias path="/Referral/.cheatsheet.xml" value="%17"/>
+  <alias path="currentProject" value="%16"/>
+  <alias path="version" value="%18"/>
+  <alias path="newMember" value="%8"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/util/Resources.java" value="%0"/>
+  <alias path="version.wildfly.maven.plugin" value="%19"/>
+  <alias path="version.wildfly.maven" value="%20"/>
+  <alias path="version.wildfly" value="%22"/>
+  <alias path="version.jboss" value="%25"/>
+  <alias path="version.war.plugin" value="%26"/>
+  <alias path="version.surefire.plugin" value="%27"/>
+  <alias path="request.contextPath" value="%28"/>
+  <alias
+   path="/Referral/src/main/java/org/jboss/tools/examples/service/MemberRegistration.java" value="%5"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

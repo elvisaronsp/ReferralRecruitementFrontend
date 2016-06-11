@@ -1,0 +1,13 @@
+var app = angular.module('RRApp.controllers', []);
+
+app.controller('DemoCtrl', [ '$scope', '$location',
+		function($scope, $location) {
+			$scope.app = function() {
+				$location.path('/app');
+			};
+		},
+		function ($scope, $location) {
+            $scope.app = function () {
+              $location.path('/app');
+            };
+		}]);

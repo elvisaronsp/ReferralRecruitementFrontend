@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/PLAYER9/.m2/repository/junit/junit/4.10/junit-4.10.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/javaee-api/7.0/javaee-api-7.0.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar"/>
+  <path value="C:/Users/PLAYER9/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="25" name="%0" offset="30192" path="%1"/>
+   <linked-el length="55" name="%2" offset="9930" path="%1"/>
+   <linked-el length="24" name="%3" offset="7888" path="%1"/>
+   <linked-el length="25" name="%4" offset="17896" path="%1"/>
+   <linked-el length="55" name="%5" offset="9930" path="%1"/>
+   <linked-el length="39" name="%6" offset="8262" path="%1"/>
+   <linked-el length="33" name="%7" offset="20581" path="%1"/>
+   <linked-el length="18" name="%8" offset="1873" path="%9"/>
+   <linked-el length="18" name="%8" offset="1405" path="%9"/>
+   <linked-el length="18" name="%8" offset="1706" path="%9"/>
+   <linked-el length="45" name="%10" offset="12137" path="%1"/>
+   <linked-el length="33" name="%11" offset="20581" path="%1"/>
+   <linked-el length="43" name="%12" offset="20687" path="%1"/>
+   <linked-el length="43" name="%13" offset="20687" path="%1"/>
+   <linked-el length="19" name="%14" offset="6733" path="%1"/>
+   <linked-el length="25" name="%15" offset="30192" path="%1"/>
+   <linked-el length="55" name="%16" offset="9930" path="%1"/>
+   <linked-el length="45" name="%17" offset="12137" path="%1"/>
+   <linked-el length="45" name="%18" offset="12137" path="%1"/>
+   <linked-el length="39" name="%19" offset="29718" path="%1"/>
+   <linked-el length="39" name="%20" offset="29718" path="%1"/>
+   <linked-el length="37" name="%21" offset="29951" path="%1"/>
+   <linked-el length="115" name="%22" offset="8014" path="%1"/>
+   <linked-el length="45" name="%23" offset="12137" path="%1"/>
+   <linked-el length="32" name="%24" offset="18489" path="%1"/>
+   <linked-el length="43" name="%25" offset="20687" path="%1"/>
+   <linked-el length="33" name="%25" offset="20581" path="%1"/>
+   <linked-el length="55" name="%26" offset="9930" path="%1"/>
+   <linked-el length="35" name="%27" offset="27855" path="%1"/>
+   <linked-el length="45" name="%28" offset="12137" path="%1"/>
+   <linked-el length="19" name="%29" offset="6733" path="%1"/>
+   <linked-el length="100" name="%30" offset="6849" path="%1"/>
+   <linked-el length="37" name="%31" offset="29951" path="%1"/>
+   <linked-el length="36" name="%31" offset="29835" path="%1"/>
+   <linked-el length="43" name="%32" offset="20687" path="%1"/>
+   <linked-el length="43" name="%33" offset="20687" path="%1"/>
+   <linked-el length="35" name="%34" offset="27855" path="%1"/>
+   <linked-el length="43" name="%35" offset="17985" path="%1"/>
+   <linked-el length="24" name="%36" offset="30123" path="%1"/>
+   <linked-el length="18" name="%37" offset="1873" path="%9"/>
+   <linked-el length="18" name="%37" offset="1405" path="%9"/>
+   <linked-el length="18" name="%37" offset="1706" path="%9"/>
+   <linked-el length="34" name="%38" offset="7077" path="%1"/>
+   <linked-el length="24" name="%39" offset="7888" path="%1"/>
+   <linked-el length="25" name="%40" offset="30192" path="%1"/>
+   <linked-el length="35" name="%40" offset="27855" path="%1"/>
+   <linked-el length="37" name="%40" offset="29951" path="%1"/>
+   <linked-el length="31" name="%40" offset="28292" path="%1"/>
+   <linked-el length="39" name="%40" offset="29718" path="%1"/>
+   <linked-el length="26" name="%40" offset="30263" path="%1"/>
+   <linked-el length="55" name="%40" offset="9930" path="%1"/>
+   <linked-el length="36" name="%40" offset="29835" path="%1"/>
+   <linked-el length="24" name="%40" offset="30123" path="%1"/>
+   <linked-el length="39" name="%41" offset="29718" path="%1"/>
+   <linked-el length="24" name="%42" offset="30123" path="%1"/>
+   <linked-el length="55" name="%43" offset="9930" path="%1"/>
+   <linked-el length="29" name="%44" offset="29555" path="%1"/>
+   <linked-el length="29" name="%44" offset="29175" path="%1"/>
+   <linked-el length="27" name="%44" offset="18185" path="%1"/>
+   <linked-el length="29" name="%44" offset="29049" path="%1"/>
+   <linked-el length="100" name="%45" offset="6849" path="%1"/>
+   <linked-el length="115" name="%45" offset="8014" path="%1"/>
+   <linked-el length="45" name="%46" offset="12137" path="%1"/>
+   <linked-el length="39" name="%47" offset="30040" path="%1"/>
+   <linked-el length="37" name="%47" offset="18088" path="%1"/>
+   <linked-el length="36" name="%48" offset="29835" path="%1"/>
+   <linked-el length="100" name="%49" offset="6849" path="%1"/>
+   <linked-el length="39" name="%50" offset="8347" path="%1"/>
+   <linked-el length="33" name="%51" offset="20581" path="%1"/>
+   <linked-el length="37" name="%52" offset="29951" path="%1"/>
+   <linked-el length="31" name="%53" offset="28292" path="%1"/>
+   <linked-el length="26" name="%54" offset="30263" path="%1"/>
+   <linked-el length="31" name="%55" offset="28292" path="%1"/>
+   <linked-el length="100" name="%56" offset="6849" path="%1"/>
+   <linked-el length="43" name="%56" offset="17985" path="%1"/>
+   <linked-el length="29" name="%56" offset="19268" path="%1"/>
+   <linked-el length="34" name="%56" offset="7077" path="%1"/>
+   <linked-el length="39" name="%56" offset="8262" path="%1"/>
+   <linked-el length="39" name="%56" offset="30040" path="%1"/>
+   <linked-el length="29" name="%56" offset="29175" path="%1"/>
+   <linked-el length="32" name="%56" offset="18489" path="%1"/>
+   <linked-el length="29" name="%56" offset="29049" path="%1"/>
+   <linked-el length="39" name="%56" offset="8347" path="%1"/>
+   <linked-el length="29" name="%56" offset="29555" path="%1"/>
+   <linked-el length="34" name="%56" offset="7157" path="%1"/>
+   <linked-el length="25" name="%56" offset="17896" path="%1"/>
+   <linked-el length="37" name="%56" offset="18088" path="%1"/>
+   <linked-el length="27" name="%56" offset="18185" path="%1"/>
+   <linked-el length="115" name="%56" offset="8014" path="%1"/>
+   <linked-el length="43" name="%57" offset="20687" path="%1"/>
+   <linked-el length="34" name="%58" offset="7157" path="%1"/>
+   <linked-el length="115" name="%59" offset="8014" path="%1"/>
+   <linked-el length="39" name="%60" offset="29718" path="%1"/>
+   <linked-el length="29" name="%61" offset="19268" path="%1"/>
+   <linked-el length="33" name="%62" offset="20581" path="%1"/>
+   <linked-el length="36" name="%63" offset="29835" path="%1"/>
+   <linked-el length="45" name="%64" offset="12137" path="%1"/>
+   <linked-el length="26" name="%65" offset="30263" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="jboss.http.port" value="%0"/>
+  <alias path="jboss.deployment.scanner.rollback" value="%2"/>
+  <alias path="postgresql.enabled" value="%3"/>
+  <alias path="env.OPENSHIFT_GEAR_DNS" value="%4"/>
+  <alias path="jboss.deployment.scanner.rollback.on" value="%5"/>
+  <alias path="env.OPENSHIFT_POSTGRESQL_DB_USERNAME" value="%6"/>
+  <alias path="messaging.thread.pool.max.size" value="%7"/>
+  <alias path="jackson.version" value="%8"/>
+  <alias path="ra.rar" value="%10"/>
+  <alias path="messaging.thread.pool.max" value="%11"/>
+  <alias path="messaging.scheduled.thread.pool.max.size" value="%12"/>
+  <alias path="messaging.scheduled.thread.pool" value="%13"/>
+  <alias path="mysql" value="%14"/>
+  <alias path="/jbosswildfly/.openshift/config/standalone.xml" value="%1"/>
+  <alias path="jboss.http" value="%15"/>
+  <alias path="jboss.deployment.scanner" value="%16"/>
+  <alias path="ejb.resource" value="%17"/>
+  <alias path="adapter" value="%18"/>
+  <alias path="offset" value="%19"/>
+  <alias path="jboss.socket.binding.port" value="%20"/>
+  <alias path="jboss.management.https.port" value="%21"/>
+  <alias path="env.OPENSHIFT_POSTGRESQL_DB_PORT" value="%22"/>
+  <alias path="ra" value="%23"/>
+  <alias path="env.OPENSHIFT_WILDFLY_CLUSTER" value="%24"/>
+  <alias path="messaging" value="%25"/>
+  <alias path="jboss.deployment.scanner.rollback.on.failure" value="%26"/>
+  <alias path="jboss.home" value="%27"/>
+  <alias path="name" value="%28"/>
+  <alias path="mysql.enabled" value="%29"/>
+  <alias path="env.OPENSHIFT_MYSQL_DB_PORT" value="%30"/>
+  <alias path="jboss.management" value="%31"/>
+  <alias path="messaging.scheduled" value="%32"/>
+  <alias path="/jbosswildfly/pom.xml" value="%9"/>
+  <alias path="messaging.scheduled.thread" value="%33"/>
+  <alias path="jboss.home.dir" value="%34"/>
+  <alias path="env.OPENSHIFT_WILDFLY_CLUSTER_PROXY_PORT" value="%35"/>
+  <alias path="jboss.ajp.port" value="%36"/>
+  <alias path="jackson" value="%37"/>
+  <alias path="env.OPENSHIFT_MYSQL_DB_USERNAME" value="%38"/>
+  <alias path="postgresql" value="%39"/>
+  <alias path="jboss" value="%40"/>
+  <alias path="jboss.socket" value="%41"/>
+  <alias path="jboss.ajp" value="%42"/>
+  <alias path="jboss.deployment" value="%43"/>
+  <alias path="env.OPENSHIFT_WILDFLY_IP" value="%44"/>
+  <alias path="env.OPENSHIFT_APP_NAME" value="%45"/>
+  <alias path="ejb" value="%46"/>
+  <alias path="env.OPENSHIFT_WILDFLY_CLUSTER_PORT" value="%47"/>
+  <alias path="jboss.management.http" value="%48"/>
+  <alias path="env.OPENSHIFT_MYSQL_DB_HOST" value="%49"/>
+  <alias path="env.OPENSHIFT_POSTGRESQL_DB_PASSWORD" value="%50"/>
+  <alias path="messaging.thread" value="%51"/>
+  <alias path="jboss.management.https" value="%52"/>
+  <alias path="jboss.bind" value="%53"/>
+  <alias path="jboss.https" value="%54"/>
+  <alias path="jboss.bind.address" value="%55"/>
+  <alias path="env" value="%56"/>
+  <alias path="messaging.scheduled.thread.pool.max" value="%57"/>
+  <alias path="env.OPENSHIFT_MYSQL_DB_PASSWORD" value="%58"/>
+  <alias path="env.OPENSHIFT_POSTGRESQL_DB_HOST" value="%59"/>
+  <alias path="jboss.socket.binding" value="%60"/>
+  <alias path="env.OPENSHIFT_SECRET_TOKEN" value="%61"/>
+  <alias path="messaging.thread.pool" value="%62"/>
+  <alias path="jboss.management.http.port" value="%63"/>
+  <alias path="name.hornetq" value="%64"/>
+  <alias path="jboss.https.port" value="%65"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

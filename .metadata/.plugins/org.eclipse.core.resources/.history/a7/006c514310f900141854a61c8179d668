@@ -1,0 +1,13 @@
+var app = angular.module('LGApp.controllers', []);
+
+app.controller('LoginCtrl', [ '$scope', '$location',
+		function($scope, $location) {
+			$scope.app = function() {
+				$location.path('/app');
+			};
+		},
+		function ($scope, $location) {
+            $scope.app = function () {
+              $location.path('/app');
+            };
+		}]);

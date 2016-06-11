@@ -1,0 +1,9 @@
+<!-- APP PAGE -->
+<html>
+<head>
+<title>APPLICATION</title>
+</head>
+<body data-ng-app="ngdemoApp">
+	<h1>HOME</h1>
+</body>
+</html>

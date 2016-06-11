@@ -1,0 +1,11 @@
+<!-- APP PAGE -->
+<html>
+<head>
+<title>APPLICATION</title>
+</head>
+<body data-ng-app="ngdemoApp">
+	<div data-ng-view="">
+		<!-- CONTENT -->
+	</div>
+</body>
+</html>

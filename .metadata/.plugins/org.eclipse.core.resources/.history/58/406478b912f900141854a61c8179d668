@@ -1,0 +1,15 @@
+angular.module('LGApp',
+		[ 'LGApp.services', 'LGApp.controllers', 'ngRoute' ]).config(
+		function($routeProvider, $httpProvider) {
+			$routeProvider.when('/login', {
+				templateUrl : 'views/login/default.html',
+				controller : 'LoginCtrl'
+			});
+			$routeProvider.when('/error', {
+				templateUrl : 'views/login/error.html',
+				controller : 'LoginCtrl'
+			});
+			$routeProvider.otherwise({
+				redirectTo : '/login'
+			});
+		});

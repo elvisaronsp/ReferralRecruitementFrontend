@@ -1,0 +1,19 @@
+
+  <h1>User detail</h1>
+
+  <form novalidate="novalidate">
+
+      <label>Name:</label>
+
+      <input type="text" id="inputName" data-ng-model="user.name"/>
+   
+   
+      <label>Email:</label>
+
+      <input type="text" id="inputEmail" data-ng-model="user.email"/>
+     
+      
+      <button data-ng-click="cancel()">cancel</button>
+      <button data-ng-click="updateUser()">update user</button>
+    
+  </form>

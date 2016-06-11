@@ -1,0 +1,30 @@
+<!-- LOGIN PAGE -->
+
+<html>
+<head>
+<title>LOGIN</title>
+</head>
+<body data-ng-app="MainApp">
+	<h1>
+		<a href="#/login">LOGIN</a>
+	</h1>
+	<form>
+		login: <input name="login" type="text" /><br /> 
+		password:<inputname="passw" type="password" /><br />
+		<button data-ng-click="checkCredentials()">sign in</button><br />
+	</form>
+	<div data-ng-view="">
+		<!-- CONTENT -->
+	</div>
+	<!-- SCRIPTS -->
+	<script
+		src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+	<script
+		src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-resource.js"></script>
+	<script
+		src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+	<script src="scripts/app.js"></script>
+	<script src="scripts/services/services.js"></script>
+	<script src="scripts/controllers/controllers.js"></script>
+</body>
+</html>

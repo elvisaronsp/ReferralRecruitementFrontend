@@ -1,0 +1,19 @@
+<!-- APP PAGE -->
+<html>
+<head>
+<title>APPLICATION</title>
+</head>
+<body data-ng-app="RRApp">
+	<div data-ng-view="">
+		<!-- CONTENT -->
+	</div>
+	
+	<!-- SCRIPTS -->
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-resource.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+	<script src="scripts/app.js"></script>
+	<script src="scripts/services/services.js"></script>
+	<script src="scripts/controllers/controllers.js"></script>
+</body>
+</html>

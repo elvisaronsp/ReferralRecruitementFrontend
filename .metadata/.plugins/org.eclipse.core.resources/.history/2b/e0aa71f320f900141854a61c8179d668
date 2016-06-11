@@ -1,0 +1,22 @@
+angular.module('LGApp', []);
+angular.module('RRApp', []);
+angular.module('MainApp', ['LGApp', 'RRApp']);
+
+angular.module('MainApp').config(
+		function($routeProvider, $httpProvider) {
+			$routeProvider.when('/login', {
+				templateUrl : 'views/login/default.html',
+				controller : 'LGApp.LoginCtrl'
+			});
+			$routeProvider.when('/error', {
+				templateUrl : 'views/login/error.html',
+				controller : 'LGApp.LoginCtrl'
+			});
+			$routeProvider.when('/app', {
+				templateUrl : 'views/app/default.html',
+				controller : 'RRApp.AppCtrl'
+			});
+			$routeProvider.otherwise({
+				redirectTo : '/login'
+			});
+		});
